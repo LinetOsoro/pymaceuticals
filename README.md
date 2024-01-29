@@ -8,4 +8,5 @@ Perform the following tasks:
 •	Calculate quartiles, find outliers, and create a box plot.
 •	Create a line plot and a scatter plot.
 •	Calculate correlation and regression.
+
 Finally submit your analysis.
